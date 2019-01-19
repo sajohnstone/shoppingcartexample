@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "app": {
+      "commandName": "Project",
+      "commandLineArgs": "apples apples soup soup soup bread bread"
+    }
+  }
+}
